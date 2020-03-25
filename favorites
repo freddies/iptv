@@ -43,8 +43,12 @@ http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/3965
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1,TVB JADE
 http://m.567it.com/jade.m3u8
+#EXTINF:-1,TVB JADE HD
+http://ttzx.tv/hls/jade.m3u8
 #EXTINF:-1,TVB PEARL
 http://m.567it.com/Pearl.m3u8
+#EXTINF:-1,TVB PEARL HD
+http://ttzx.tv/hls/prarl.m3u8
 #EXTINF:-1, DISCOVERY
 http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/319
 #EXTINF:-1,NATIONAL GEOGRAPHIC

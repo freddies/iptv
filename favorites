@@ -1,18 +1,10 @@
 #EXTM3U
-#EXTINF:-1,ABC NEWS
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1,BLOOMBERG
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1,CNN NEWS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e630a8a3-c25a-4c3c-aedd-6fbdcc6fd060&deviceId=d6ae0d04-f1fc-4abd-ad59-5e7b3825032b&deviceVersion=79.0.3945.88&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-#EXTINF:-1,CBS NEWS
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
-#EXTINF:-1,NBC NEWS
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1,CBC NEWS
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 #EXTINF:-1,CBC MONTREAL
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF:-1,CTV NEWS
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/2423
 #EXTINF:-1,ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1,ICI TELE MONTREAL
@@ -23,7 +15,29 @@ https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chu
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1,TVA
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
+#EXTINF:-1,ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,BLOOMBERG
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1,CNN NEWS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e630a8a3-c25a-4c3c-aedd-6fbdcc6fd060&deviceId=d6ae0d04-f1fc-4abd-ad59-5e7b3825032b&deviceVersion=79.0.3945.88&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+#EXTINF:-1,CBS NEWS
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+#EXTINF:-1,FOX NEWS
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/363
+#EXTINF:-1,MSNBC
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/365
+#EXTINF:-1,NBC NEWS
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/9546
+#EXTINF:-1,CCTV NEWS
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/3965
+#EXTINF:-1,FRANCE 24
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/4796
 #EXTINF:-1,TVB JADE
 http://m.567it.com/jade.m3u8
 #EXTINF:-1,TVB PEARL
 http://m.567it.com/Pearl.m3u8
+#EXTINF:-1, DISCOVERY
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/1764

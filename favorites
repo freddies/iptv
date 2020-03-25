@@ -3,8 +3,14 @@
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 #EXTINF:-1,CBC MONTREAL
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF:-1,CITY MONTREAL
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/15073
 #EXTINF:-1,CTV NEWS
 http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/2423
+#EXTINF:-1,CTV MONTREAL
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/2398
+#EXTINF:-1,GLOBAL MONTREAL
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/2397
 #EXTINF:-1,ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1,ICI TELE MONTREAL
@@ -40,6 +46,6 @@ http://m.567it.com/jade.m3u8
 #EXTINF:-1,TVB PEARL
 http://m.567it.com/Pearl.m3u8
 #EXTINF:-1, DISCOVERY
-http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/1764
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/319
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/330

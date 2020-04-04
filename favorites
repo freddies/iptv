@@ -38,16 +38,22 @@ http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/365
 #EXTINF:-1,NBC NEWS
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1,BBC WORLD NEWS
-http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/9546
-#EXTINF:-1,CCTV NEWS
-http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/3965
-#EXTINF:-1,FRANCE 24
+http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1,CGTN FRANCAIS
+http://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1,CGTN DOCUMENTARY
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1,FRANCE 24 EN
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,FRANCE 24 FR
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 #EXTINF:-1,TVB JADE
 http://m.567it.com/jade.m3u8
 #EXTINF:-1,TVB PEARL
 http://m.567it.com/Pearl.m3u8
 #EXTINF:-1, DISCOVERY
-http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/319
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/330
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8

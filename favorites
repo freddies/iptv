@@ -15,6 +15,8 @@ http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/2397
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1,ICI TELE MONTREAL
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+#EXTINF:-1,LCN
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/med_720p/med_720p.m3u8
 #EXTINF:-1,TELE-QUEBEC
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 #EXTINF:-1,TELE-V

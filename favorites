@@ -50,7 +50,7 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1,FRANCE 24 FR
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 #EXTINF:-1,TVB JADE
-http://180.94.172.134:8891/stream/channelid/540849414
+http://m.567it.com/jade.m3u8
 #EXTINF:-1,TVB PEARL
 http://m.567it.com/Pearl.m3u8
 #EXTINF:-1, DISCOVERY

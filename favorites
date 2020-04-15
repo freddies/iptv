@@ -32,9 +32,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af4228394
 #EXTINF:-1,CBS NEWS
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
 #EXTINF:-1,FOX NEWS
-http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/363
+https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
 #EXTINF:-1,MSNBC
-http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/365
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10669
 #EXTINF:-1,NBC NEWS
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1,BBC WORLD NEWS
@@ -54,6 +54,6 @@ http://m.567it.com/jade.m3u8
 #EXTINF:-1,TVB PEARL
 http://m.567it.com/Pearl.m3u8
 #EXTINF:-1, DISCOVERY
-http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10761
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8

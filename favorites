@@ -6,7 +6,7 @@ https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 #EXTINF:-1,CITY MONTREAL
 http://ok2.se:8000/2c86F1UlvcRtwPtqJ/d7a5F1USbuzzvkhB8/15073
 #EXTINF:-1,CTV NEWS
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+https://pe-ak-lp02a-9c9media.akamaized.net/live/News1Digi/p/dash/00000001/8e377c581da8df4e/manifest.mpd?News
 #EXTINF:-1,CTV MONTREAL
 http://ok2.se:8000/2c86F1UlvcRtwPtqJ/d7a5F1USbuzzvkhB8/2398
 #EXTINF:-1,GLOBAL NEWS

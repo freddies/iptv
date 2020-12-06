@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1,CBC NEWS
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF:-1,CBC NEWS - 2
+https://od.lk/s/MF8yMjA4MTQ1MzRf/CBCNews_TempLive.mp4
 #EXTINF:-1,CBC MONTREAL
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-#EXTINF:-1,CITY MONTREAL
-http://ok2.se:8000/2c86F1UlvcRtwPtqJ/d7a5F1USbuzzvkhB8/15073
 #EXTINF:-1,CTV NEWS
 https://pe-ak-lp02a-9c9media.akamaized.net/live/News1Digi/p/dash/00000001/8e377c581da8df4e/manifest.mpd?News
-#EXTINF:-1,CTV MONTREAL
-http://ok2.se:8000/2c86F1UlvcRtwPtqJ/d7a5F1USbuzzvkhB8/2398
 #EXTINF:-1,GLOBAL NEWS
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1,ICI RDI
@@ -33,8 +31,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af4228394
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
 #EXTINF:-1,FOX NEWS
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
-#EXTINF:-1,MSNBC
-http://ok2.se:8000/2c86F1UlvcRtwPtqJ/d7a5F1USbuzzvkhB8/365
 #EXTINF:-1,NBC NEWS
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1,BBC WORLD NEWS
@@ -53,7 +49,3 @@ http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 http://m.567it.com/jade.m3u8
 #EXTINF:-1,TVB PEARL
 http://m.567it.com/Pearl.m3u8
-#EXTINF:-1, DISCOVERY
-http://103.205.133.42:1935/local/discovery_hd_720/index.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8

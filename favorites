@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,CBC NEWS
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
-#EXTINF:-1,CBC NEWS - 2
-https://od.lk/s/MF8yMjA4MTQ1MzRf/CBCNews_TempLive.mp4
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
 #EXTINF:-1,CBC MONTREAL
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 #EXTINF:-1,CTV NEWS
